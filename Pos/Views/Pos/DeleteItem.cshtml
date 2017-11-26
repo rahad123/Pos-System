@@ -1,0 +1,38 @@
+﻿@model Pos.Models.Item
+@{
+    ViewBag.Title = "DeleteItem";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Your Deleted Item was:</h2>
+
+
+@using (@Html.BeginForm())
+{
+    <table>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Price
+            </th>
+        </tr>
+        <tr>
+            <td>
+                @Model.Id
+            </td>
+            <td>
+                @Model.Name
+            </td>
+            <td>
+                @Model.Price
+            </td>
+        </tr>
+    </table>
+}
+<br />
+@Html.ActionLink("Return Home", "Login")

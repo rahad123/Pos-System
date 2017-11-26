@@ -1,0 +1,70 @@
+﻿@model Pos.Models.Item
+@{
+    ViewBag.Title = "DeleteItem";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete Item</h2>
+
+@using (@Html.BeginForm())
+{
+    <table>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Price
+            </th>
+        </tr>
+        <tr>
+            <td>
+                @Model.Id
+            </td>
+            <td>
+                @Model.Name
+            </td>
+            <td>
+                @Model.Price
+            </td>
+        </tr>
+    </table>
+
+    <p>Your Item is Permanently delete if your confirm. Are you sure to delete?</p>
+    <div class="form-group">
+        @Html.ActionLink("Confirm", "DeleteItem", new { itemId = Model.Id })
+    </div>
+}
+
+<style>
+    table#t01 {
+        width: 100%;
+        background-color: #f1f1c1;
+    }
+
+        table#t01 tr:nth-child(even) {
+            background-color: #a7aaaf;
+        }
+
+        table#t01 tr:nth-child(odd) {
+            background-color: #dce0e8;
+        }
+
+        table#t01 th {
+            color: white;
+            background-color: #8342f4;
+        }
+
+    table, th, td {
+        border: 1px solid #41f45c;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        text-align: center;
+        padding: 15px;
+    }
+</style> 

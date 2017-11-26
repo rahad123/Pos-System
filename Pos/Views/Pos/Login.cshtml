@@ -1,0 +1,25 @@
+﻿@model Pos.Models.BoughtItem
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login Your Account.</h2>
+
+@using (@Html.BeginForm("Admin", "Pos"))
+{
+    <div class="form-group">
+        <button type="submit" class="btn-primary">Admin</button>
+    </div>
+}
+@using (@Html.BeginForm("Customer", "Pos"))
+{
+    <div class="form-group">
+        <button type="submit" class="btn-primary">Customer</button>
+    </div>
+}
+@using (@Html.BeginForm("ParchasesList", "Pos"))
+{
+    <div class="form-group">
+        <button type="submit" class="btn-primary">Your Item List</button>
+    </div>
+}

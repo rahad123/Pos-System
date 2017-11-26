@@ -1,0 +1,170 @@
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\obj\Debug\Pos.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\ApplicationInsights.config
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\roslyn\csc.exe
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\roslyn\vbc.exe
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\roslyn\VBCSCompiler.exe
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Pos.dll.config
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Pos.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Pos.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Antlr3.Runtime.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\EntityFramework.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\EntityFramework.SqlServer.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.AI.Web.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.AI.WindowsServer.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.ApplicationInsights.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Owin.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Owin.Security.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Owin.Security.Google.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Newtonsoft.Json.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Owin.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\System.Web.Helpers.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\System.Web.Mvc.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\System.Web.Optimization.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\System.Web.Razor.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\System.Web.WebPages.Deployment.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\System.Web.WebPages.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\System.Web.WebPages.Razor.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\WebGrease.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.AI.Web.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.AI.WindowsServer.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.ApplicationInsights.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\System.Web.Helpers.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\System.Web.Mvc.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\System.Web.Optimization.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\System.Web.Razor.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\System.Web.WebPages.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\System.Web.WebPages.Deployment.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\System.Web.WebPages.Razor.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Antlr3.Runtime.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Newtonsoft.Json.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\EntityFramework.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\EntityFramework.SqlServer.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Owin.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Owin.Security.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Owin.Security.Google.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\obj\Debug\Pos.dll
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\obj\Debug\Pos.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\obj\Debug\POSNEWMVC.Migrations.FirstDatabase.resources
+c:\users\hp\documents\visual studio 2015\Projects\Pos\Pos\obj\Debug\Pos.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pos\Pos\obj\Debug\Pos.Migrations.ThirdDatabase.resources
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\ApplicationInsights.config
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\roslyn\csc.exe
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\roslyn\vbc.exe
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\roslyn\VBCSCompiler.exe
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Pos.dll.config
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Pos.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Pos.pdb
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Antlr3.Runtime.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\EntityFramework.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\EntityFramework.SqlServer.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.AI.Web.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Owin.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Owin.Security.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Newtonsoft.Json.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Owin.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\System.Web.Helpers.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\System.Web.Mvc.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\System.Web.Optimization.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\System.Web.Razor.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\System.Web.WebPages.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\System.Web.WebPages.Razor.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\WebGrease.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.AI.Web.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\System.Web.Helpers.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\System.Web.Mvc.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\System.Web.Optimization.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\System.Web.Razor.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\System.Web.WebPages.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\System.Web.WebPages.Razor.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Antlr3.Runtime.pdb
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Newtonsoft.Json.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\EntityFramework.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\EntityFramework.SqlServer.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Owin.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Owin.Security.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\obj\Debug\Pos.csprojResolveAssemblyReference.cache
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\obj\Debug\POSNEWMVC.Migrations.FirstDatabase.resources
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\obj\Debug\Pos.Migrations.ThirdDatabase.resources
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\obj\Debug\Pos.csproj.GenerateResource.Cache
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\obj\Debug\Pos.dll
+C:\Users\rahad saidul\Desktop\Pos\Pos\Pos\obj\Debug\Pos.pdb
